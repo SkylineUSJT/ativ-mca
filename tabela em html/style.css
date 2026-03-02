@@ -1,0 +1,19 @@
+table, th, td {
+    border: 2px solid black; /* Estilo, espessura e cor */
+    border-collapse: collapse; /* Remove bordas duplas */
+}
+
+/* centraliza a tabela horizontalmente */
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    padding: 7px; /* Adiciona espaço interno */
+    font-size: 15px; /* Aumenta o tamanho da fonte */
+}
+
+h4, p {
+    text-align: center; /* Centraliza o texto */
+}       
